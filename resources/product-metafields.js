@@ -16,7 +16,7 @@ function ProductMetafields(shopify) {
 
   this.parentName = 'products';
   this.name = 'metafields';
-  this.key = 'product';
+  this.key = 'metafields';
 }
 
 assign(ProductMetafields.prototype, baseChild);
